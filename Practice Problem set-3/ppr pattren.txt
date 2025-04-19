@@ -1,0 +1,7 @@
+total 5 questions 12marks/question
+
+Q1. Dictionary
+Q2. function
+Q3. recursive function
+Q4. loops
+Q5. file
